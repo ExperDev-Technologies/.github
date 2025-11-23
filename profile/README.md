@@ -168,17 +168,16 @@
 </div>
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=experdevtechnologies&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=experdevtechnologies&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=experdevtechnologies&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📈 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=experdevtechnologies&layout=compact&theme=dark&hide_border=true" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=experdevtechnologies&show_icons=true&theme=dark&count_private=true&hide_border=true" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=experdevtechnologies&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=experdevtechnologies&theme=react-dark&hide_border=true" width="700" />
-</p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=experdevtechnologies&bg_color=0f0f0f&color=ede9ec&line=c10b1d&point=178240&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
