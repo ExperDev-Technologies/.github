@@ -1,6 +1,6 @@
 <!-- Organization Logo -->
 <p align="center">
-  <img src="[https://i.ibb.co.com/Zzn2gm0k/logo.png](https://i.ibb.co.com/7Jm9vvdg/rsz-logo.jpg)" alt="ExperDev Technologies Logo" width="400"/>
+  <img src="https://i.ibb.co.com/Zzn2gm0k/logo.png" alt="ExperDev Technologies Logo" width="400"/>
 </p>
 
 <h1 align="center">🚀 ExperDev Technologies</h1>
@@ -18,7 +18,7 @@ Founded on **19 November 2025** and headquartered in **Dhaka, Bangladesh**,
 
 We specialize in modern digital transformation by delivering top-tier services such as **website development**, **UI/UX designing**, **SaaS product engineering**, **IT consultation**, and **AI-driven innovations**. Our mission is to empower entrepreneurs, startups, and enterprises with cutting-edge digital solutions tailored for performance, scalability, and long-term growth.
 
-At ExperDev Technologies, we combine creativity with engineering excellence. From building pixel-perfect interfaces to architecting enterprise-grade backend systems, we focus on innovation, reliability, and client success. Our development philosophy follows global best practices while embracing the latest technologies, ensuring that every product we build is future-ready and user-centric.
+At ExperDev Technologies, we combine creativity with engineering excellence. From building pixel-perfect interfaces to architecting enterprise-grade backend systems, we focus on innovation, reliability, and client success. Our development philosophy follows global best practices while embracing the latest technologies, ensuring every product we build is future-ready and user-centric.
 
 With a passionate mindset, a culture of continuous improvement, and a commitment to pushing boundaries, ExperDev Technologies is not just a service provider—  
 we are your technology partner dedicated to turning bold ideas into impactful digital realities.
@@ -28,7 +28,7 @@ we are your technology partner dedicated to turning bold ideas into impactful di
 ## 👨‍💼 **Founder & CEO**
 
 <p align="center">
-  <img src="[https://i.ibb.co.com/Dfbb1GS1/Khaled-Saifulla.png](https://i.ibb.co.com/N6sbC3Vv/resize-khaled-saifulla.jpg)" alt="Khaled Saifulla" width="200"/><br>
+  <img src="https://i.ibb.co.com/Dfbb1GS1/Khaled-Saifulla.png" alt="Khaled Saifulla" width="220"/><br>
   <b>Khaled Saifulla</b><br>
   Founder & CEO, ExperDev Technologies
 </p>
