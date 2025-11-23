@@ -1,108 +1,125 @@
-<!-- Organization Logo -->
 <p align="center">
-  <img src="https://i.ibb.co.com/HpP7zqZy/exper-Dev-logo.jpg" alt="ExperDev Technologies Logo" width="400"/>
+  <img src="https://i.ibb.co/HpP7zqZy/exper-Dev-logo.jpg" alt="ExperDev Technologies Logo" width="360" style="border-radius:12px;"/>
 </p>
 
 <h1 align="center">🚀 ExperDev Technologies</h1>
 
 <p align="center">
-  Empowering Businesses with Expert IT Solutions & Innovation
+  <strong style="color:#9be7ff">ExperDev Technologies — Building the Future with Expert Innovation.</strong>
 </p>
 
 ---
 
-## 🏢 **About ExperDev Technologies**
+<!-- Dark "card" look (GitHub sanitizes most CSS; this keeps it compatible) -->
+<div align="center">
 
-Founded on **19 November 2025** and headquartered in **Dhaka, Bangladesh**,  
-**ExperDev Technologies** is a dynamic and innovation-driven IT solutions company built by a team of visionary and expert developers—hence the name _ExperDev_.
+<table cellpadding="12" cellspacing="0" width="100%" style="max-width:900px;margin:auto;">
+  <tr>
+    <td style="background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01)); border-radius:12px; padding:18px;">
+      <h2 style="margin:6px 0 4px; color:#cfeff1;">🏢 About ExperDev Technologies</h2>
+      <p style="color:#b8dfe3; line-height:1.5; margin:6px 0;">
+        Founded on <strong>19 November 2025</strong> in <strong>Dhaka, Bangladesh</strong>, ExperDev (Expert Developers)
+        is a focused IT solutions company delivering modern web & cloud products. We build high-quality websites,
+        SaaS platforms, elegant UI/UX, AI-assisted automation, and provide practical IT consultation — all with a
+        developer-first, production-ready mindset.
+      </p>
+    </td>
+  </tr>
+</table>
 
-We specialize in modern digital transformation by delivering top-tier services such as **website development**, **UI/UX designing**, **SaaS product engineering**, **IT consultation**, and **AI-driven innovations**. Our mission is to empower entrepreneurs, startups, and enterprises with cutting-edge digital solutions tailored for performance, scalability, and long-term growth.
-
-At ExperDev Technologies, we combine creativity with engineering excellence. From building pixel-perfect interfaces to architecting enterprise-grade backend systems, we focus on innovation, reliability, and client success. Our development philosophy follows global best practices while embracing the latest technologies, ensuring every product we build is future-ready and user-centric.
-
-With a passionate mindset, a culture of continuous improvement, and a commitment to pushing boundaries, ExperDev Technologies is not just a service provider—  
-we are your technology partner dedicated to turning bold ideas into impactful digital realities.
+</div>
 
 ---
 
-## 👨‍💼 **Founder & CEO**
+## 👨‍💼 Founder & CEO
 
 <p align="center">
-  <img src="https://i.ibb.co.com/jPbDfBQM/ceo-logo.jpg" alt="Khaled Saifulla" width="220"/><br>
-  <b>Khaled Saifulla</b><br>
-  Founder & CEO, ExperDev Technologies
+  <img src="https://i.ibb.co/jPbDfBQM/ceo-logo.jpg" alt="Khaled Saifulla" width="180" style="border-radius:10px; border:1px solid rgba(255,255,255,0.04);"/><br>
+  <strong style="color:#dff7ff;">Khaled Saifulla</strong><br>
+  <span style="color:#a7d6df">Founder & CEO — ExperDev Technologies</span>
 </p>
 
 ---
 
-## 🛠️ **Our Services**
+## 🛠️ Our Services
 
-| Service Category        | Description                                 |
-| ----------------------- | ------------------------------------------- |
-| 🌐 Web Development      | High-performance full-stack websites & apps |
-| 🖥️ Web Design (UI/UX)   | Creative, responsive & modern UI/UX design  |
-| ☁️ SaaS Development     | Scalable cloud-based SaaS products          |
-| 🤖 AI Innovation        | AI tools, automation & ML-powered solutions |
-| 📱 App Development      | Android, iOS & cross-platform apps          |
-| 🛡️ IT Consultation      | Business-focused technology guidance        |
-| 🏗️ API Development      | Secure, optimized & scalable APIs           |
-| 🔧 DevOps Solutions     | CI/CD, containerization & cloud deployment  |
-| 🏢 Enterprise Solutions | Tailored software for business operations   |
-| 🖧 System Integration    | Integrating software, APIs & architecture   |
+| Service Category        | Summary |
+| ----------------------- | ------- |
+| 🌐 **Web Development**      | Fast, maintainable full-stack apps (SSR / SSG / API-first) |
+| 🖥️ **Web Design (UI/UX)**   | Pixel-perfect responsive UI and user flows |
+| ☁️ **SaaS Development**     | Scalable, multi-tenant SaaS engineering |
+| 🤖 **AI Innovation**        | Automation, ML prototypes, AI integrations |
+| 📱 **App Development**      | Cross-platform & native mobile apps |
+| 🛡️ **IT Consultation**      | Strategy, architecture, and delivery planning |
+| 🏗️ **API Development**      | Secure, versioned REST / GraphQL APIs |
+| 🔧 **DevOps**               | CI/CD, containers, infra-as-code, deployments |
+| 🏢 **Enterprise Solutions** | Workflow automation, integrations, security |
+| 🖧 **System Integration**    | 3rd-party API orchestration & data pipelines |
 
 ---
 
-## 🧩 **Tech Stack**
+## 🧩 Tech Stack (single row)
 
 <p align="center">
-  
-<!-- Row 1 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" alt="HTML5"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" alt="CSS3"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" alt="Tailwind"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" alt="Bootstrap"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="JS"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" alt="TS"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" alt="React"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" alt="Next.js"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36" alt="Redux"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" alt="Express"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" alt="MongoDB"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" alt="Postgres"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="36" alt="Prisma"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" alt="Go"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" alt="Docker"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="36" alt="Nginx"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" alt="Firebase"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" alt="Figma"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="36" alt="Vercel"/>
+</p>
 
-<!-- Row 2 -->
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" />
+> Additional: TailwindCSS, MaterialUI, DaisyUI, ShadcnUI, Mongoose, Clerk, OAuth, JWT, Netlify, Render, Postman, Swagger.
 
-<!-- Row 3 -->
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
+---
 
-<!-- Row 4 -->
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" />
+## 📈 GitHub Stats & Activity
 
-<!-- Row 5 -->
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
+> Replace `experdevtechnologies` below with your GitHub username to show real stats.
 
-<br/><br/>
-✨ _Other Tools:_ TailwindCSS, MaterialUI, DaisyUI, ShadcnUI, Mongoose, OAuth, JWT, Clerk, Netlify, Render, Postman, Swagger & more.
+<p align="center">
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=experdevtechnologies&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>&nbsp;
 
+  <!-- Main stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=experdevtechnologies&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="ExperDev GitHub Stats"/>
+</p>
+
+<p align="center">
+  <!-- Streak / commits graph (activity-graph) -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=experdevtechnologies&theme=react-dark&hide_border=true" alt="Contribution Graph" width="700"/>
 </p>
 
 ---
 
-## 📫 **Contact & Collaboration**
+## 📫 Contact
 
-📧 Email: **contact@experdev.com**  
-🌐 Website: _(Coming Soon)_  
-🏢 Dhaka, Bangladesh
-
-> **ExperDev Technologies — Building the Future with Expert Innovation.**
+- ✉️ Email: **experdevtechnologies@gmail.com**  
+- 📍 Dhaka, Bangladesh  
+- 🔗 Website: *(coming soon)*
 
 ---
+
+If you want, I’ll:
+- generate a **small animated SVG** (fading/typing effect) and give direct instructions to embed it as a GIF or data-URI, **or**
+- create a **dark & glass-themed image header (PNG/GIF)** that you can commit to `./assets/` and embed for perfect cross-platform rendering.
+
+Which should I do next?  
+A: _Provide animated SVG (I’ll convert/embed it myself)_  
+B: _Create an animated GIF header and README-ready asset (I’ll give file & link instructions)_  
+
+(Reply with `A` or `B` — I’ll include the asset and final README.)
