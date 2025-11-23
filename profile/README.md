@@ -113,13 +113,3 @@
 - 🔗 Website: *(coming soon)*
 
 ---
-
-If you want, I’ll:
-- generate a **small animated SVG** (fading/typing effect) and give direct instructions to embed it as a GIF or data-URI, **or**
-- create a **dark & glass-themed image header (PNG/GIF)** that you can commit to `./assets/` and embed for perfect cross-platform rendering.
-
-Which should I do next?  
-A: _Provide animated SVG (I’ll convert/embed it myself)_  
-B: _Create an animated GIF header and README-ready asset (I’ll give file & link instructions)_  
-
-(Reply with `A` or `B` — I’ll include the asset and final README.)
