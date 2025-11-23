@@ -1,6 +1,6 @@
 <!-- Organization Logo -->
 <p align="center">
-  <img src="https://i.ibb.co.com/Zzn2gm0k/logo.png" alt="ExperDev Technologies Logo" width="200"/>
+  <img src="[https://i.ibb.co.com/Zzn2gm0k/logo.png](https://i.ibb.co.com/7Jm9vvdg/rsz-logo.jpg)" alt="ExperDev Technologies Logo" width="400"/>
 </p>
 
 <h1 align="center">🚀 ExperDev Technologies</h1>
@@ -28,7 +28,7 @@ we are your technology partner dedicated to turning bold ideas into impactful di
 ## 👨‍💼 **Founder & CEO**
 
 <p align="center">
-  <img src="https://i.ibb.co.com/Dfbb1GS1/Khaled-Saifulla.png" alt="Khaled Saifulla" width="200"/><br>
+  <img src="[https://i.ibb.co.com/Dfbb1GS1/Khaled-Saifulla.png](https://i.ibb.co.com/N6sbC3Vv/resize-khaled-saifulla.jpg)" alt="Khaled Saifulla" width="200"/><br>
   <b>Khaled Saifulla</b><br>
   Founder & CEO, ExperDev Technologies
 </p>
